@@ -1,7 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mert Tekin<br>💞️ I’m a Software Developer<br>👀 I’m interested in Web Development (Django, React, Vue and Nuxt)<br>🌱 I’m currently learning Mobil Development (React Native)<br>📫 You reach me from my email addess: merttekin.bm@gmail.com <br>
-merttekin.com.tr
-
+👋 Hi, I’m Mert Tekin<br>💞️ I’m a Software Developer<br>👀 I’m interested in Web Development (Django, React, Vue and Nuxt)<br>🌱 I’m currently learning Mobil Development (React Native)<br>📫 You reach me from my email addess: merttekin.bm@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mert-tekin3406/) 
